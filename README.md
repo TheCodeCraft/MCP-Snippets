@@ -1,2 +1,2 @@
 # MCP-Snippets
-My MCP-Snippets
+Some Cool things you can add to your client but credit me...
